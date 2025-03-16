@@ -7,7 +7,7 @@
 - **Конструирование ПО**: разработка сервисов.
 
 ## Репозитории
-- [Программирование] (https://github.com/devops-practical-classes-25/algorithms-tasks)
+- [Программирование](https://github.com/devops-practical-classes-25/algorithms-tasks)
 - [ООП] (https://github.com/devops-practical-classes-25/OOP-tasks)
 - [Базы данных] (https://github.com/devops-practical-classes-25/database-tasks)
 - [Конструирование ПО]
