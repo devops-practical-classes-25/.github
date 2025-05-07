@@ -12,3 +12,5 @@
 - [Базы данных](https://github.com/devops-practical-classes-25/database-tasks)
 - [Конструирование ПО](https://github.com/devops-practical-classes-25/construct-tasks.git)
 
+Вся необходимая документация, которая моможет при выполнении заданий и установке необходимого программного обеспечения, расположена в отдельнном репозитории - [Документация](https://github.com/devops-practical-classes-25/documentation)
+
